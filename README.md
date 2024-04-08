@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Git Hub Repo URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Git Hub Repo URL](https://github.com/KrishnaPoddar1/reviewtemplate.git)
+- Live Site URL: [Live site URL](https://krishnapoddar1.github.io/reviewtemplate/)
 
 ## My process
 
